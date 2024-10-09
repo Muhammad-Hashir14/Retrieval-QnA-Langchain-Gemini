@@ -1,0 +1,16 @@
+google-ai-generativelanguage==0.6.10
+google-api-core==2.20.0
+google-api-python-client==2.148.0
+google-auth==2.35.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.3
+googleapis-common-protos==1.65.0
+huggingface-hub==0.25.1
+langchain==0.3.2
+langchain-community==0.3.1
+langchain-core==0.3.9
+langchain-google-genai==2.0.1
+langchain-text-splitters==0.3.0
+langsmith==0.1.132
+streamlit==1.33.0
+
