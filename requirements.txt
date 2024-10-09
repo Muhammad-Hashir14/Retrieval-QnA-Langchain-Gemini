@@ -13,4 +13,5 @@ langchain-google-genai==2.0.1
 langchain-text-splitters==0.3.0
 langsmith==0.1.132
 streamlit==1.33.0
+sentence-transformers==3.1.1
 
